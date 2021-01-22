@@ -1,2 +1,2 @@
-# Recommendation
-In this we create store-product recommendation system
+# recommendsystem
+ Python Project On Store-Product Recommedition
